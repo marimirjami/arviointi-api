@@ -8,3 +8,6 @@ Ohjelman toiminta
 * POST: Lisätään uusia opiskelijoita ja kirjautumistietoja.
 * PUT: Päivitetään olemassa olevia opiskelijatietoja (esim. nimenmuutokset).
 * DELETE: Poistetaan suorituksia järjestelmästä ID-numeron perusteella.
+
+* Videon esittely 10min
+https://unioulu-my.sharepoint.com/:v:/g/personal/mtukkimi25_students_oamk_fi/IQBSaYqT135XR74i4-fF3ALXAQJ67eZYoYHiv9uuyBg4uDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zkfAGp
